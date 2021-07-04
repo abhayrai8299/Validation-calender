@@ -1,0 +1,32 @@
+
+.form
+{
+    position: relative;
+    top: 250px;
+    left: 650px;
+    width:200px;
+    height: 200px;
+    background-color: aqua;
+    border: 2px solid black;
+
+}
+.form-validate
+{
+    position: absolute;
+    top: 40px;
+    left: 4px;
+}
+.btn
+{
+    position: relative;
+    top: 20px;
+    left: 60px;
+    background-color:orange;
+    
+}
+.btn:hover
+{
+    cursor:pointer;
+    background-color:blue;
+}
+   
